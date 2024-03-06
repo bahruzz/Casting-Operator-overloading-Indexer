@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Casting-Operator overloading-Indexer\Casting-Operator overloading-Indexer\Casting-Operator overloading-Indexer\bin\Debug\net6.0\Casting-Operator overloading-Indexer.exe
+C:\Users\user\Desktop\Casting-Operator overloading-Indexer\Casting-Operator overloading-Indexer\Casting-Operator overloading-Indexer\bin\Debug\net6.0\Casting-Operator overloading-Indexer.deps.json
+C:\Users\user\Desktop\Casting-Operator overloading-Indexer\Casting-Operator overloading-Indexer\Casting-Operator overloading-Indexer\bin\Debug\net6.0\Casting-Operator overloading-Indexer.runtimeconfig.json
+C:\Users\user\Desktop\Casting-Operator overloading-Indexer\Casting-Operator overloading-Indexer\Casting-Operator overloading-Indexer\bin\Debug\net6.0\Casting-Operator overloading-Indexer.dll
+C:\Users\user\Desktop\Casting-Operator overloading-Indexer\Casting-Operator overloading-Indexer\Casting-Operator overloading-Indexer\bin\Debug\net6.0\Casting-Operator overloading-Indexer.pdb
+C:\Users\user\Desktop\Casting-Operator overloading-Indexer\Casting-Operator overloading-Indexer\Casting-Operator overloading-Indexer\obj\Debug\net6.0\Casting-Operator overloading-Indexer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Casting-Operator overloading-Indexer\Casting-Operator overloading-Indexer\Casting-Operator overloading-Indexer\obj\Debug\net6.0\Casting-Operator overloading-Indexer.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Casting-Operator overloading-Indexer\Casting-Operator overloading-Indexer\Casting-Operator overloading-Indexer\obj\Debug\net6.0\Casting-Operator overloading-Indexer.AssemblyInfo.cs
+C:\Users\user\Desktop\Casting-Operator overloading-Indexer\Casting-Operator overloading-Indexer\Casting-Operator overloading-Indexer\obj\Debug\net6.0\Casting-Operator overloading-Indexer.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Casting-Operator overloading-Indexer\Casting-Operator overloading-Indexer\Casting-Operator overloading-Indexer\obj\Debug\net6.0\Casting-Operator overloading-Indexer.dll
+C:\Users\user\Desktop\Casting-Operator overloading-Indexer\Casting-Operator overloading-Indexer\Casting-Operator overloading-Indexer\obj\Debug\net6.0\refint\Casting-Operator overloading-Indexer.dll
+C:\Users\user\Desktop\Casting-Operator overloading-Indexer\Casting-Operator overloading-Indexer\Casting-Operator overloading-Indexer\obj\Debug\net6.0\Casting-Operator overloading-Indexer.pdb
+C:\Users\user\Desktop\Casting-Operator overloading-Indexer\Casting-Operator overloading-Indexer\Casting-Operator overloading-Indexer\obj\Debug\net6.0\Casting-Operator overloading-Indexer.genruntimeconfig.cache
+C:\Users\user\Desktop\Casting-Operator overloading-Indexer\Casting-Operator overloading-Indexer\Casting-Operator overloading-Indexer\obj\Debug\net6.0\ref\Casting-Operator overloading-Indexer.dll
